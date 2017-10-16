@@ -1,0 +1,117 @@
+[
+    {
+      "name": "Margherita",
+      "ingredients": ["pomodoro", "fiordilatte", "basilico", "olio"]
+    },
+    {
+      "name": "Marinara",
+      "ingredients": ["pomodoro", "aglio", "origano", "olio"]
+    },
+    {
+      "name": "Napoletana",
+      "ingredients": [
+        "pomodoro",
+        "acciughe salate",
+        "origano",
+        "capperi (facoltativi)",
+        "olio"
+      ]
+    },
+    {
+      "name": "Capricciosa",
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "funghi",
+        "carciofini",
+        "acciughe",
+        "prosciutto cotto o crudo",
+        "olive nere"
+      ]
+    },
+    {
+      "name": "Quattro stagioni",
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "funghi",
+        "carciofini",
+        "acciughe",
+        "prosciutto cotto o crudo",
+        "olive nere"
+      ]
+    },
+    {
+      "name": "Quattro formaggi",
+      "ingredients": [
+        "pomodoro (opzionale)",
+        "mozzarella",
+        "altri formaggi a discrezione",
+        "basilico"
+      ]
+    },
+    {
+      "name": "Funghi",
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "funghi champignon",
+        "prezzemolo",
+        "olio"
+      ]
+    },
+    {
+      "name": "Prosciutto e funghi",
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "funghi champignon",
+        "prosciutto cotto o crudo"
+      ]
+    },
+    {
+      "name": "Diavola",
+      "ingredients": ["pomodoro", "mozzarella", "salame piccante", "peperoncino"]
+    },
+    {
+      "name": "Boscaiola",
+      "ingredients": ["pomodoro", "funghi champignon", "salsiccia"]
+    },
+    {
+      "name": "Fiori di zucca",
+      "ingredients": ["mozzarella", "fiori di zucca", "acciughe salate", "olio"]
+    },
+    {
+      "name": "Frutti di mare",
+      "ingredients": ["frutti di mare", "aglio", "prezzemolo"]
+    },
+    {
+      "name": "Ortolana",
+      "ingredients": [
+        "pomodoro (opzionale)",
+        "mozzarella",
+        "peperoni",
+        "melanzane",
+        "zucchine"
+      ]
+    },
+    {
+      "name": "Mare e monti",
+      "ingredients": [
+        "pomodoro",
+        "mozzarella",
+        "funghi",
+        "gamberetti e/o cozze e calamari",
+        "aglio",
+        "prezzemolo"
+      ]
+    },
+    {
+      "name": "Caprese",
+      "ingredients": ["pomodori pachino", "bufala", "basilico", "olio"]
+    },
+    {
+      "name": "Mimosa",
+      "ingredients": ["mozzarella", "panna", "prosciutto cotto", "mais"]
+    }
+  ]
